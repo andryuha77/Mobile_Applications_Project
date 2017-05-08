@@ -26,7 +26,7 @@ Player ground with maze and collectible objects where designed also jump functio
 Finished app will be submitted for certification on the Windows Store.
 
 ## How to run
-Install the app from Windows store.
+Install the app from [Windows store](https://www.microsoft.com/en-ie/store/p/extended-roll-a-ball/9msn9vcx6sfg?rtc=1).
 
 Use arrows to control the ball and space bar to jump, touch screen also supported on selected laptops.
 
